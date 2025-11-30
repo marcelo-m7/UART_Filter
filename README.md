@@ -1,13 +1,3 @@
-# Relatório – Projeto Final de Sistemas Reconfiguráveis
-**Transmissão Criptografada UART + Filtro FIR (Sender & Receiver em FPGA)**
-
-* **Aluno**: Marcelo Santos
-* **Email**: [a79433@ualg.pt](mailto:a79433@ualg.pt)
-* **Unidade Curricular**: Computação Reconfigurável
-* **Instituição**: Universidade do Algarve
-
----
-
 ## 1. Objetivo
 
 Desenvolver um **sistema ponta-a-ponta** em VHDL capaz de:
@@ -123,7 +113,3 @@ Forma de onda confirma:
 ## 7. Conclusão
 
 O sistema desenvolvido demonstra a integração de **criptografia, comunicação serial** e **processamento digital de sinal** num FPGA, respeitando os requisitos do trabalho final. A arquitetura modular facilita futuras alterações (novo filtro, outro algoritmo de cifra, etc.).
-
----
-
-**[Repositório GitHub](https://github.com/marcelo-m7/Transmiss-o-Criptografada-UART---Filtro-FIR--ModelSim-)**
