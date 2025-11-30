@@ -8,8 +8,6 @@ Desenvolver um **sistema ponta-a-ponta** em VHDL capaz de:
 4. **Filtrar** o sinal reconstruído num FIR de 21 taps,
 5. Disponibilizar os dados filtrados para gravação/observação (RAM de debug ou DAC externo).
 
-O projeto cumpre os requisitos definidos nos slides do “Final Project” da UC **Sistemas Reconfiguráveis** (Tx → Rx, ligação física simples, reutilização de blocos previamente desenvolvidos).
-
 ---
 
 ## 2. Arquitetura de Alto Nível
